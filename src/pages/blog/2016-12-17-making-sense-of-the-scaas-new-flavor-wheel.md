@@ -15,7 +15,7 @@ tags:
 
 While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
 
-youtube id="m2mfY9Ku0jI" caption="ciao"
+youtube m2mfY9Ku0jI
 
 ## What the updates mean to you
 
