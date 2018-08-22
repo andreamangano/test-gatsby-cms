@@ -9,7 +9,7 @@ tags:
   - flavor
   - tasting
 ---
-youtube m2mfY9Ku0jI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m2mfY9Ku0jI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen />
 
 ![flavor wheel](/img/flavor_wheel.jpg)
 
