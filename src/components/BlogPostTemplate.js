@@ -20,7 +20,7 @@ const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-10 is-offset-1">
+          <div className="column is-6-desktop is-offset-3-desktop is-8-tablet is-offset-2-tablet">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
