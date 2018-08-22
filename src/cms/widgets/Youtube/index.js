@@ -15,14 +15,12 @@ const definition = {
   },
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
-    return `<iframe width="560" height="315" src="https://www.youtube.com/embed/${obj.id}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen />`;
+    return 'youtube ' + obj.id;
   },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
-    return (
-      '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
-    );
+    return `<iframe width="560" height="315" src="https://www.youtube.com/embed/${obj.id}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen />`;
   }
 }
 
