@@ -9,13 +9,13 @@ tags:
   - flavor
   - tasting
 ---
-youtube m2mfY9Ku0jI
-
 ![flavor wheel](/img/flavor_wheel.jpg)
 
 <span class="Test">T</span>he SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
 While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+
+youtube m2mfY9Ku0jI
 
 ## What the updates mean to you
 
