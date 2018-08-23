@@ -10,8 +10,6 @@ tags:
   - brewing
   - chemex
 ---
-
-
 ![chemex](/img/chemex.jpg)
 
 This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be ù
@@ -25,6 +23,10 @@ youtube m2mfY9Ku0jI
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
 
 {{< youtube m2mfY9Ku0jI >}}
+
+
+
+{{<youtube-embed id="m2mfY9Ku0jI" />}}
 
 ## The little secrets of Chemex brewing
 
